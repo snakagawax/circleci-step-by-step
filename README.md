@@ -9,6 +9,7 @@ This application has the following branches:
 - step1-1st-green-build
 - step2-docker-images
 - step3-workflows
+  - test
 - step3-workflows-sequential
 - step4-run-test
 - step5-speed-up-cache
